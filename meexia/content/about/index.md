@@ -4,15 +4,16 @@
 in the first 17 years of my life.
 
 - In the midst of what was similar to a civil war, my parents sent me to 
-Kuala Lumpur, Malaysia, where I lived for 15 months.
+Kuala Lumpur, Malaysia, where I lived for 15 months. I did not speak English
+before this.
 
 - Eventually my whole family (parents and 2 younger brothers) and I moved to 
 Australia. I went back and forth between Melbourne and Sydney. Australia is
 the country I call home.
 
 - I received a scholarship to do a year of Game Programming study in Vancouver, 
-Canada, so I took a year off Uni and flew across the world with $15,000 notes 
-sewn by my dad on the inside of my jeans for a year of living cost.
+and convinced my parents to pay the rest. So I took a year off Uni and 
+flew across the world with $15,000 notes sewn by my dad on the inside of my jeans.
 
 - I did the whole 'backpacking around South East Asia' for several weeks and
 came back with limbs full of bed bugs bites, which took months to clear off.
