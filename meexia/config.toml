@@ -14,18 +14,23 @@ weight = 1
 
 [[menu.main]]
 name = "Writings"
-url = "/posts"
+url = "/writings"
 weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "VFX"
+url = "/vfx"
 weight = 3
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Games"
+url = "/games"
 weight = 4
+
+[[menu.main]]
+name = "Previous Lives"
+url = "/about"
+weight = 5
 
 [markup]
   [markup.tableOfContents]
@@ -38,14 +43,15 @@ weight = 4
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  css = ["css/custom.css"]
 
   # Home page settings
-  description = "Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
+  description = "I consider myself a Senior Software Engineer (Fullstack). I worked in VFX (Visual Effects) industry for 12 years, and 4 years in video games prior to that. On the side I'm also working towards a (second) degree in English Literature and Creative Writing to pursue an alternate life as a writer. I have stories to tell."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
-  showProjectsList = true # show projects list by default (if projects data file exists).
+  showProjectsList = false # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
