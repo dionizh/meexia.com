@@ -1,0 +1,3 @@
+[submodule "meexia/themes/cactus"]
+	path = meexia/themes/cactus
+	url = https://github.com/dionizh/hugo-theme-cactus.git
