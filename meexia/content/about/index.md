@@ -1,3 +1,7 @@
+![The White Rabbit](/img/whiterabbit.png)
+> *Alice: How long is forever?  
+The White Rabbit: Sometimes, just one second.*
+
 # Previous Lives
 
 - I was born and raised in Jakarta, Indonesia and never left the island of Java 
