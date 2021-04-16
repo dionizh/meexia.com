@@ -13,29 +13,34 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
 name = "Writings"
 url = "/writings"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Courses"
 url = "/courses"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "VFX"
 url = "/vfx"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Games"
 url = "/games"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Previous Lives"
 url = "/about"
-weight = 6
+weight = 7
 
 [markup]
   [markup.tableOfContents]
@@ -51,7 +56,7 @@ weight = 6
   css = ["css/custom.css"]
 
   # Home page settings
-  description = "I consider myself a Senior Software Engineer (Fullstack). I worked in VFX (Visual Effects) industry for 12 years, and 4 years in video games prior to that. On the side I'm also working towards a (second) degree in English Literature and Creative Writing to pursue an alternate life as a writer. I have stories to tell."
+  description = "I'm a Senior Software Engineer in EdTech. Prior to that I worked on movies and video games. I'm working towards a (second) degree in English Literature and Creative Writing. Recent obsession: crypto, blockchain and decentralisation."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
